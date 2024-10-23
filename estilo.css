@@ -84,3 +84,6 @@ a {
 a:hover {
     color: red; /* Color del enlace cuando pases el puntero */
 }
+section{
+    text-align: center center;
+}
