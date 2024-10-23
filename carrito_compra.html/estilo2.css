@@ -1,0 +1,55 @@
+/*Letra importada de google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Londrina+Sketch&display=swap');
+/* aplicado para toda la pagina del carrito de compra del salinerito*/
+
+nav {
+    background-color: #3e1e14;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 100px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 10px;
+    
+}
+header {
+    background-color: #5e2129;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+header img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    margin-top: 15px;
+    
+}
+h1{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+header img {  /*Controla el ancho máximo que un elemento puede ocupar en la pantalla.*/
+    width: 980px;
+    height: auto;
+    margin-top: 15px;
+   
+}
+section{
+    text-align: center;
+}
+img{
+    border: 2px solid black;
+}
